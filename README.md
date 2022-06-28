@@ -25,5 +25,4 @@
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
 
 <h2 align="left">:heart: Let's get connected:</h2>
-
-[![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsivram1999/)](https://www.linkedin.com/in/oussama-seffai/)
+<a href="https://www.linkedin.com/in/oussama-seffai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ousf" height="30" width="40" /></a>
